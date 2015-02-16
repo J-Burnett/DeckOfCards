@@ -106,10 +106,10 @@ namespace DeckOfCards
     //Card Suits
     public enum Suit
     {
-        Spades = 1,
-        Diamonds,
-        Clubs,
-        Hearts
+        Spade = 1,
+        Diamond,
+        Club,
+        Heart
     }
 
     //Card Ranks
